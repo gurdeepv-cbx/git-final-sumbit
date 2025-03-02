@@ -12,6 +12,8 @@
    # r, annual rate of interest
    # Output:
    # simple interest = p*t*r
+
+   echo "This is a Calculator"
    
    echo "Enter the principal:"
    read p
