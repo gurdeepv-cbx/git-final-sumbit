@@ -13,7 +13,7 @@
    # Output:
    # simple interest = p*t*r
 
-   echo "This is a calculator"
+   echo "This is a calculator for SI"
    
    echo "Enter the principal:"
    read p
